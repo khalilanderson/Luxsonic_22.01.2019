@@ -1,0 +1,10 @@
+newmtl blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd khalilAnderson_alb_centrifuge_1k.001.tga
+bump khalilAnderson_bmp_centrifuge_1k.001.tga -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks khalilAnderson_alb_centrifuge_1k.001.tga
